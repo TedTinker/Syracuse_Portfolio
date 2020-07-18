@@ -1,10 +1,10 @@
 # Syracuse_Portfolio
 
-Ted (Theodore) Jerome Tinker
+Name: Ted (Theodore) Jerome Tinker
 
-tjtinker@syr.edu
+Email: tjtinker@syr.edu
 
-745252368
+SUID: 745252368
 
 Contents:
 
